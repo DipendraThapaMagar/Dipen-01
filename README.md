@@ -7,11 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects.**
 
-- 📝 I regularly write articles on [https://hashnode.com/@Shaan77](https://hashnode.com/@Shaan77)
-
 - 💬 Ask me about **AI related stuff...!**
 
-- 📫 How to reach me: **shantanupanchal.dev@gamil.com**
+- 📫 How to reach me: **dipendrathapamagar235@gamil.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
