@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shantanu-0101&label=Profile%20views&color=0e75b6&style=flat" alt="shantanu-0101" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shaanxeng" target="blank"><img src="https://img.shields.io/twitter/follow/shaanxeng?logo=twitter&style=for-the-badge" alt="shaanxeng" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/dipendra-thapa-magar/" alt="Dipendra" /></a> </p>
 
 - 🔭 I’m currently working as an intern at **Pai Kane Group.**
 
