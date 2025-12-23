@@ -1,6 +1,6 @@
 # Dipen-01
 
-<h1 align="center">Hi 👋, I'm Shantanu..</h1>
+<h1 align="center">Hi 👋, I'm Dipendra Thapa MAgar..</h1>
 <h3 align="center">A passionate Machine Learning Engineer</h3>
 
 <p align="left">
